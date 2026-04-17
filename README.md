@@ -241,15 +241,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodedVisionDesign&theme=radical" height="160"/>
-</p>
-
-<p align="center">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/CodedVisionDesign/CodedVisionDesign/output/github-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CodedVisionDesign&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
