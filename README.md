@@ -168,7 +168,12 @@
 <p align="center">
   <img alt="Web frontend stack" src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,alpinejs,threejs,vscode&perline=10" />
   <br/>
-  <img alt="Mobile, backend and devops stack" src="https://skillicons.dev/icons?i=flutter,reactnative,swift,kotlin,nodejs,php,prisma,mysql,docker,git&perline=10" />
+  <img alt="Mobile, backend and devops stack" src="https://skillicons.dev/icons?i=flutter,swift,kotlin,nodejs,php,prisma,mysql,docker,git,githubactions&perline=10" />
+  <br/><br/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
 ---
