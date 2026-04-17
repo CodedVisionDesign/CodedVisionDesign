@@ -110,24 +110,55 @@
 ---
 
 <!-- CLIENT LOGO WALL -->
-<h2 align="center">🤝 Trusted by Businesses Across the UK</h2>
+<h2 align="center">🤝 Our Live Projects</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://combatevolvedsports.com" title="Visit Combat Evolved Sports">
+        <img alt="Combat Evolved Sports" src="https://combatevolvedsports.com/assets/favicons/logoinapp.png" height="72" />
+      </a>
+      <br/><sub><b>Combat Evolved Sports</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://kazokumartialartsessex.com" title="Visit Kazoku Martial Arts Essex">
+        <img alt="Kazoku Martial Arts" src="https://kazokumartialartsessex.com/assets/img/logo-192.png" height="72" />
+      </a>
+      <br/><sub><b>Kazoku Martial Arts</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://earthecho.co.uk" title="Visit EarthEcho">
+        <img alt="EarthEcho" src="https://earthecho.co.uk/assets/ee-logo.webp" height="72" />
+      </a>
+      <br/><sub><b>EarthEcho</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://clactoncabcompany.co.uk" title="Visit Clacton Cab Company">
+        <img alt="Clacton Cab Company" src="https://clactoncabcompany.co.uk/images/logo.png" height="72" />
+      </a>
+      <br/><sub><b>Clacton Cab Company</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://englishopenbjjchampionships.co.uk" title="Visit English Open BJJ Championships">
+        <img alt="English Open BJJ Championships" src="https://englishopenbjjchampionships.co.uk/images/logo.png" height="72" />
+      </a>
+      <br/><sub><b>English Open BJJ</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://doublepistachio.co.uk" title="Visit Double Pistachio">
+        <img alt="Double Pistachio" src="https://doublepistachio.co.uk/dist/logo.webp" height="72" />
+      </a>
+      <br/><sub><b>Double Pistachio</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 <p align="center">
-  <img alt="KMC" src="https://img.shields.io/badge/KMC-000000?style=flat-square" />
-  <img alt="BJJ Havering" src="https://img.shields.io/badge/BJJ%20Havering-F97316?style=flat-square" />
-  <img alt="Carlson Gracie UK" src="https://img.shields.io/badge/Carlson%20Gracie%20UK-000000?style=flat-square" />
-  <img alt="ADCC UK" src="https://img.shields.io/badge/ADCC%20UK-10B981?style=flat-square" />
-  <img alt="Bay Motors" src="https://img.shields.io/badge/Bay%20Motors-F97316?style=flat-square" />
-  <img alt="Access Fire Door" src="https://img.shields.io/badge/Access%20Fire%20Door-000000?style=flat-square" />
-  <br/>
-  <img alt="Carthy's Plumbing" src="https://img.shields.io/badge/Carthy%27s%20Plumbing-10B981?style=flat-square" />
-  <img alt="CDS Tree Service" src="https://img.shields.io/badge/CDS%20Tree%20Service-F97316?style=flat-square" />
-  <img alt="Braintree Lawn" src="https://img.shields.io/badge/Braintree%20Lawn-10B981?style=flat-square" />
-  <img alt="Boulevard Logistics" src="https://img.shields.io/badge/Boulevard%20Logistics-000000?style=flat-square" />
-  <img alt="Animal Magic" src="https://img.shields.io/badge/Animal%20Magic-F97316?style=flat-square" />
-  <img alt="AB Gardening" src="https://img.shields.io/badge/AB%20Gardening-10B981?style=flat-square" />
-  <br/>
-  <sub><i>…and 20+ more businesses served across martial arts, trades, motors, logistics, health & hospitality.</i></sub>
+  <sub><i>…and 20+ more UK businesses delivered across martial arts, trades, motors, logistics, health & hospitality.</i></sub>
 </p>
 
 ---
@@ -230,9 +261,4 @@
 
 <p align="center">
   <img alt="Outro tagline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=640&lines=We+don't+just+write+code+%E2%80%94+we+build+software+that+works." />
-</p>
-
-<!-- FOOTER BANNER -->
-<p align="center">
-  <img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:F97316&height=120&section=footer" />
 </p>
