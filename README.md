@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Kane+%F0%9F%91%8B%F0%9F%8F%BE;Full-Stack+Engineer+%F0%9F%94%A5;Backend+Architect+%7C+Flask+%7C+PostgreSQL;React+%7C+Tailwind+%7C+Redux+Toolkit;Clean+Code+%E2%9C%94%EF%B8%8F+Real+Impact+%E2%9C%A8+No+Excuses" />
-</p>
-
-message.txt
-5 KB
-﻿
-<!-- Kane7th GitHub Profile README -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Kane+%F0%9F%91%8B%F0%9F%8F%BE;Full-Stack+Engineer+%F0%9F%94%A5;Backend+Architect+%7C+Flask+%7C+PostgreSQL;React+%7C+Tailwind+%7C+Redux+Toolkit;Clean+Code+%E2%9C%94%EF%B8%8F+Real+Impact+%E2%9C%A8+No+Excuses" />
