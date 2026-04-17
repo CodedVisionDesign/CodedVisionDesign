@@ -117,19 +117,19 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://combatevolvedsports.com" title="Visit Combat Evolved Sports">
-        <img alt="Combat Evolved Sports" src="https://combatevolvedsports.com/assets/favicons/logoinapp.png" height="72" />
+        <img alt="Combat Evolved Sports" src="./assets/logos/combatevolvedsports.svg" height="90" />
       </a>
       <br/><sub><b>Combat Evolved Sports</b></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://kazokumartialartsessex.com" title="Visit Kazoku Martial Arts Essex">
-        <img alt="Kazoku Martial Arts" src="https://kazokumartialartsessex.com/assets/img/logo-192.png" height="72" />
+        <img alt="Kazoku Martial Arts" src="./assets/logos/kazoku.svg" height="90" />
       </a>
       <br/><sub><b>Kazoku Martial Arts</b></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://earthecho.co.uk" title="Visit EarthEcho">
-        <img alt="EarthEcho" src="https://earthecho.co.uk/assets/ee-logo.webp" height="72" />
+        <img alt="EarthEcho" src="./assets/logos/earthecho.svg" height="90" />
       </a>
       <br/><sub><b>EarthEcho</b></sub>
     </td>
@@ -137,19 +137,19 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://clactoncabcompany.co.uk" title="Visit Clacton Cab Company">
-        <img alt="Clacton Cab Company" src="https://clactoncabcompany.co.uk/images/logo.png" height="72" />
+        <img alt="Clacton Cab Company" src="./assets/logos/clactoncab.svg" height="90" />
       </a>
       <br/><sub><b>Clacton Cab Company</b></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://englishopenbjjchampionships.co.uk" title="Visit English Open BJJ Championships">
-        <img alt="English Open BJJ Championships" src="https://englishopenbjjchampionships.co.uk/images/logo.png" height="72" />
+        <img alt="English Open BJJ Championships" src="./assets/logos/englishopen.svg" height="90" />
       </a>
       <br/><sub><b>English Open BJJ</b></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://doublepistachio.co.uk" title="Visit Double Pistachio">
-        <img alt="Double Pistachio" src="https://doublepistachio.co.uk/dist/logo.webp" height="72" />
+        <img alt="Double Pistachio" src="./assets/logos/doublepistachio.svg" height="90" />
       </a>
       <br/><sub><b>Double Pistachio</b></sub>
     </td>
@@ -232,12 +232,11 @@
 <h2 align="center">📊 Our GitHub Flow</h2>
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CodedVisionDesign&show_icons=true&count_private=true&theme=radical&hide=stars" height="160"/>
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodedVisionDesign&theme=radical" height="160"/>
+  <img alt="GitHub metrics dashboard" src="https://raw.githubusercontent.com/CodedVisionDesign/CodedVisionDesign/output/metrics.svg" />
 </p>
 
 <p align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedVisionDesign&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodedVisionDesign&theme=radical" height="160"/>
 </p>
 
 <p align="center">
