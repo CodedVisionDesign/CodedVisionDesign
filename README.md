@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kane7th"><img src="https://img.shields.io/github/followers/Kane7th?label=Follow&style=social" /></a>
+  <a href="https://github.com/CodedVisionDesign"><img src="https://img.shields.io/github/followers/CodedVisonDesign?label=Follow&style=social" /></a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=Kane7th&style=flat&color=orange" /></a>
 </p>
 
@@ -95,5 +95,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=I+don't+write+code...+I+build+software+that+works." />
 </p>
-message.txt
-5 KB
+
