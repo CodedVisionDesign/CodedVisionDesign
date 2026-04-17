@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img alt="Hacker typing animation" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacker-hacking.gif" width="260"/>
+</p>
+
+<p align="center">
   <b>UK-based full-stack web design & development agency — building fast, scalable websites and bespoke software for real businesses.</b>
 </p>
 
