@@ -1,9 +1,5 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img alt="Coded Vision Design hero banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:10B981&height=260&section=header&text=Coded%20Vision%20Design&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=UK%20Web%20Design%20%26%20Development%20Agency&descAlign=50&descAlignY=55&descSize=18&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img alt="Intro typing banner" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=760&lines=We+are+Coded+Vision+Design+%F0%9F%87%AC%F0%9F%87%A7;Next.js+%7C+TypeScript+%7C+React+%7C+Three.js;Tailwind+%7C+Prisma+%7C+MySQL+%7C+Docker;Clean+Code+%E2%9C%94%EF%B8%8F+Real+Results+%E2%9C%A8+Built+for+Business" />
 </p>
 
